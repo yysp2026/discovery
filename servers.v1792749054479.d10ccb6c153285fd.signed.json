@@ -1,0 +1,19 @@
+{
+  "payload": {
+    "schema": 1,
+    "app": {
+      "$enc": "A256GCM",
+      "kid": "main",
+      "iv": "ieOufhwoVSKfutkO",
+      "data": "AmqpbVxO1d2hLDD5d7jBAh1T7BzJKWHhuoVQDvxp"
+    },
+    "servers": {
+      "$enc": "A256GCM",
+      "kid": "main",
+      "iv": "RPhuiPLqhf0BNBxX",
+      "data": "wMp7cKjx5t3ZejWaCVvfkBjQ/kWSrsax7arFZhtYtSEe0mhubnkq9wAPQ3jeLT20tcHvt1u9WJA="
+    },
+    "version": 1792749054479
+  },
+  "signature": "TQikuf2SztgT54Zd1RimmDvi1ExD+oY3fO34g2YjX8POrXP4JVYxZhRKsd5x0Ue/ljWqi6T/JnA67et2rIxHBw=="
+}
